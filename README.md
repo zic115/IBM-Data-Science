@@ -6,5 +6,6 @@ This is the peer-graded assignment repo for IBM Data Science professional certif
 - `Databases and SQL for Data Science with Python - Peer-graded Assignment.ipynb`
 - `Data Analysis with Python - Peer-graded Assignment.ipynb`
 - `Data Visualization with Python - Peer-graded Assignment.ipynb`
+- `Applied Data Science Capstone`
 
 Thank you :)
